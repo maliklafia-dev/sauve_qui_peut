@@ -1,7 +1,7 @@
-# 🏆 Maze Client - Client TCP en Rust 🦀
+# 🏆 Sauve qui peut - Client TCP en Rust 🦀
 
 ## 📌 Description
-**Maze Client** est un client Rust conçu pour interagir avec un **serveur TCP** dans le cadre d’un jeu de l'abirinthe où l'objectif est d'en sortir.  
+**Sauve qui peut** est un client Rust conçu pour interagir avec un **serveur TCP** dans le cadre d’un jeu de l'abirinthe où l'objectif est d'en sortir.  
 Il permet d’enregistrer une équipe, d’inscrire un joueur et de communiquer avec le serveur via des **messages JSON** pour effectuer des actions en jeu. (se déplacer devant, à droite, dèrrière, à droite)
 
 ## 🚀 Fonctionnalités
