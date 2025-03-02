@@ -1,0 +1,11 @@
+D:\Documents\Tous_mes_cours_ESGI\SEMESTRE 1\Rust\Sauve_qui_peut_projet\client\target\debug\deps\libsocket2-1a52f408fcc4b650.rmeta: C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src/lib.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockaddr.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\socket.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockref.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sys\windows.rs
+
+D:\Documents\Tous_mes_cours_ESGI\SEMESTRE 1\Rust\Sauve_qui_peut_projet\client\target\debug\deps\libsocket2-1a52f408fcc4b650.rlib: C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src/lib.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockaddr.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\socket.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockref.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sys\windows.rs
+
+D:\Documents\Tous_mes_cours_ESGI\SEMESTRE 1\Rust\Sauve_qui_peut_projet\client\target\debug\deps\socket2-1a52f408fcc4b650.d: C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src/lib.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockaddr.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\socket.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockref.rs C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sys\windows.rs
+
+C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src/lib.rs:
+C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockaddr.rs:
+C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\socket.rs:
+C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sockref.rs:
+C:\Users\malik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.8\src\sys\windows.rs:

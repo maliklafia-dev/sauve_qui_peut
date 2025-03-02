@@ -1,0 +1,15 @@
+[package]
+name = "maze_client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[dev-dependencies]
+tokio = { version = "1", features = ["full"] }
+
+[[bin]]
+name = "maze_client"
+path = "src/main.rs"
