@@ -196,3 +196,8 @@ fn test_send_message() {
     assert!(result.is_ok(), "L'envoi du message a échoué");
 }
 ```
+### 🚀 Lancer le client 
+Cargo run
+
+### 🚀 Lancer les tests
+Cargo test
